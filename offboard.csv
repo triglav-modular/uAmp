@@ -1,0 +1,5 @@
+item,value,qty,mpn,manufacturer,for
+Hook-up wire,"stranded, one length per J1 pin",7,to choose,,"J1 to the 208: i+, i- and g to the preamp jack, the supply's -15 V, +15 V and g, and out to card 10's T.P.1"
+Screw,M3,1,Screw_M3,,through the board's one mounting hole into its standoff
+Standoff,M3,1,to choose,,"holds the board behind the 208's motherboard, mounted as rev2 is"
+Resistor,"to select on test, below card 10's 62k",1,to choose,,"card 10 R6, lowered to offset the board's extra gain (README)"
